@@ -1,0 +1,463 @@
+08:08:48: User layout: {'keys': [{'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,4'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 4, 'x2': 0, 'y': 0, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,3'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 3, 'x2': 0, 'y': 0.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,5'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 5, 'x2': 0, 'y': 0.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,1'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1, 'x2': 0, 'y': 0.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,2'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 2, 'x2': 0, 'y': 0.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,6'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6, 'x2': 0, 'y': 0.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,4'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 4, 'x2': 0, 'y': 1, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,3'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 3, 'x2': 0, 'y': 1.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,5'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 5, 'x2': 0, 'y': 1.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,1'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1, 'x2': 0, 'y': 1.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,2'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 2, 'x2': 0, 'y': 1.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,6'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6, 'x2': 0, 'y': 1.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,4'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 4, 'x2': 0, 'y': 2, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,3'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 3, 'x2': 0, 'y': 2.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,5'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 5, 'x2': 0, 'y': 2.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,1'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1, 'x2': 0, 'y': 2.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,2'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 2, 'x2': 0, 'y': 2.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,6'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6, 'x2': 0, 'y': 2.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,4'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 4, 'x2': 0, 'y': 3, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,3'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 3, 'x2': 0, 'y': 3.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,5'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 5, 'x2': 0, 'y': 3.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,1'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1, 'x2': 0, 'y': 3.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,2'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 2, 'x2': 0, 'y': 3.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,6'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6, 'x2': 0, 'y': 3.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['4,3'], 'nub': False, 'profile': '', 'rotation_angle': 15, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6.25, 'x2': 0, 'y': 2.95, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1.5, 'height2': 1.5, 'labels': ['4,4'], 'nub': False, 'profile': '', 'rotation_angle': 30, 'rotation_x': -3, 'rotation_y': 11.75, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1.85, 'x2': 0, 'y': 0.8, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1.5, 'height2': 1.5, 'labels': ['4,5'], 'nub': False, 'profile': '', 'rotation_angle': 40, 'rotation_x': -3, 'rotation_y': 11.75, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1.2, 'x2': 0, 'y': -0.1, 'y2': 0}], 'meta': {'author': '', 'backcolor': '#eeeeee', 'background': None, 'name': '', 'notes': '', 'radii': '', 'switchBrand': '', 'switchMount': '', 'switchType': ''}}
+08:08:48: User layout: {'keys': [{'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,4'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 4, 'x2': 0, 'y': 0, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,3'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 3, 'x2': 0, 'y': 0.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,5'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 5, 'x2': 0, 'y': 0.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,1'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1, 'x2': 0, 'y': 0.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,2'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 2, 'x2': 0, 'y': 0.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,6'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6, 'x2': 0, 'y': 0.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,4'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 4, 'x2': 0, 'y': 1, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,3'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 3, 'x2': 0, 'y': 1.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,5'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 5, 'x2': 0, 'y': 1.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,1'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1, 'x2': 0, 'y': 1.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,2'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 2, 'x2': 0, 'y': 1.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,6'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6, 'x2': 0, 'y': 1.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,4'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 4, 'x2': 0, 'y': 2, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,3'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 3, 'x2': 0, 'y': 2.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,5'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 5, 'x2': 0, 'y': 2.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,1'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1, 'x2': 0, 'y': 2.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,2'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 2, 'x2': 0, 'y': 2.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,6'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6, 'x2': 0, 'y': 2.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,4'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 4, 'x2': 0, 'y': 3, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,3'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 3, 'x2': 0, 'y': 3.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,5'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 5, 'x2': 0, 'y': 3.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,1'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1, 'x2': 0, 'y': 3.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,2'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 2, 'x2': 0, 'y': 3.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,6'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6, 'x2': 0, 'y': 3.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['4,3'], 'nub': False, 'profile': '', 'rotation_angle': 15, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6.25, 'x2': 0, 'y': 2.95, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1.5, 'height2': 1.5, 'labels': ['4,4'], 'nub': False, 'profile': '', 'rotation_angle': 30, 'rotation_x': -3, 'rotation_y': 11.75, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1.85, 'x2': 0, 'y': 0.8, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1.5, 'height2': 1.5, 'labels': ['4,5'], 'nub': False, 'profile': '', 'rotation_angle': 40, 'rotation_x': -3, 'rotation_y': 11.75, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1.2, 'x2': 0, 'y': -0.1, 'y2': 0}], 'meta': {'author': '', 'backcolor': '#eeeeee', 'background': None, 'name': '', 'notes': '', 'radii': '', 'switchBrand': '', 'switchMount': '', 'switchType': ''}}
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Object parent exists but has no children <Schematic '/tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch'>
+08:08:48: Wrote tree to /tmp/3a63428c-de1a-4223-b536-984e5c5f74972891011877/keyboard/keyboard.kicad_sch
+08:08:48: User layout: {'keys': [{'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,4'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 4, 'x2': 0, 'y': 0, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,3'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 3, 'x2': 0, 'y': 0.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,5'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 5, 'x2': 0, 'y': 0.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,1'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1, 'x2': 0, 'y': 0.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,2'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 2, 'x2': 0, 'y': 0.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,6'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6, 'x2': 0, 'y': 0.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,4'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 4, 'x2': 0, 'y': 1, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,3'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 3, 'x2': 0, 'y': 1.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,5'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 5, 'x2': 0, 'y': 1.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,1'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1, 'x2': 0, 'y': 1.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,2'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 2, 'x2': 0, 'y': 1.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,6'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6, 'x2': 0, 'y': 1.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,4'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 4, 'x2': 0, 'y': 2, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,3'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 3, 'x2': 0, 'y': 2.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,5'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 5, 'x2': 0, 'y': 2.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,1'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1, 'x2': 0, 'y': 2.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,2'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 2, 'x2': 0, 'y': 2.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,6'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6, 'x2': 0, 'y': 2.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,4'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 4, 'x2': 0, 'y': 3, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,3'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 3, 'x2': 0, 'y': 3.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,5'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 5, 'x2': 0, 'y': 3.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,1'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1, 'x2': 0, 'y': 3.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,2'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 2, 'x2': 0, 'y': 3.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,6'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6, 'x2': 0, 'y': 3.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['4,3'], 'nub': False, 'profile': '', 'rotation_angle': 15, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6.25, 'x2': 0, 'y': 2.95, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1.5, 'height2': 1.5, 'labels': ['4,4'], 'nub': False, 'profile': '', 'rotation_angle': 30, 'rotation_x': -3, 'rotation_y': 11.75, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1.85, 'x2': 0, 'y': 0.8, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1.5, 'height2': 1.5, 'labels': ['4,5'], 'nub': False, 'profile': '', 'rotation_angle': 40, 'rotation_x': -3, 'rotation_y': 11.75, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1.2, 'x2': 0, 'y': -0.1, 'y2': 0}], 'meta': {'author': '', 'backcolor': '#eeeeee', 'background': None, 'name': '', 'notes': '', 'radii': '', 'switchBrand': '', 'switchMount': '', 'switchType': ''}}
+08:08:48: Add COL1 net
+08:08:48: Add COL2 net
+08:08:48: Add COL3 net
+08:08:48: Add COL4 net
+08:08:48: Add COL5 net
+08:08:48: Add COL6 net
+08:08:48: Add Net-(D1-A) net
+08:08:48: Add Net-(D10-A) net
+08:08:48: Add Net-(D11-A) net
+08:08:48: Add Net-(D12-A) net
+08:08:48: Add Net-(D13-A) net
+08:08:48: Add Net-(D14-A) net
+08:08:48: Add Net-(D15-A) net
+08:08:48: Add Net-(D16-A) net
+08:08:48: Add Net-(D17-A) net
+08:08:48: Add Net-(D18-A) net
+08:08:48: Add Net-(D19-A) net
+08:08:48: Add Net-(D2-A) net
+08:08:48: Add Net-(D20-A) net
+08:08:48: Add Net-(D21-A) net
+08:08:48: Add Net-(D22-A) net
+08:08:48: Add Net-(D23-A) net
+08:08:48: Add Net-(D24-A) net
+08:08:48: Add Net-(D25-A) net
+08:08:48: Add Net-(D26-A) net
+08:08:48: Add Net-(D27-A) net
+08:08:48: Add Net-(D3-A) net
+08:08:48: Add Net-(D4-A) net
+08:08:48: Add Net-(D5-A) net
+08:08:48: Add Net-(D6-A) net
+08:08:48: Add Net-(D7-A) net
+08:08:48: Add Net-(D8-A) net
+08:08:48: Add Net-(D9-A) net
+08:08:48: Add ROW0 net
+08:08:48: Add ROW1 net
+08:08:48: Add ROW2 net
+08:08:48: Add ROW3 net
+08:08:48: Add ROW4 net
+08:08:48: Add SW1 footprint
+08:08:49: Add D1 footprint
+08:08:49: Add SW2 footprint
+08:08:49: Add D2 footprint
+08:08:49: Add SW3 footprint
+08:08:49: Add D3 footprint
+08:08:49: Add SW4 footprint
+08:08:49: Add D4 footprint
+08:08:49: Add SW5 footprint
+08:08:49: Add D5 footprint
+08:08:49: Add SW6 footprint
+08:08:49: Add D6 footprint
+08:08:49: Add SW7 footprint
+08:08:49: Add D7 footprint
+08:08:49: Add SW8 footprint
+08:08:49: Add D8 footprint
+08:08:49: Add SW9 footprint
+08:08:49: Add D9 footprint
+08:08:49: Add SW10 footprint
+08:08:49: Add D10 footprint
+08:08:50: Add SW11 footprint
+08:08:50: Add D11 footprint
+08:08:50: Add SW12 footprint
+08:08:50: Add D12 footprint
+08:08:50: Add SW13 footprint
+08:08:50: Add D13 footprint
+08:08:50: Add SW14 footprint
+08:08:50: Add D14 footprint
+08:08:50: Add SW15 footprint
+08:08:50: Add D15 footprint
+08:08:50: Add SW16 footprint
+08:08:50: Add D16 footprint
+08:08:50: Add SW17 footprint
+08:08:50: Add D17 footprint
+08:08:50: Add SW18 footprint
+08:08:50: Add D18 footprint
+08:08:50: Add SW19 footprint
+08:08:50: Add D19 footprint
+08:08:50: Add SW20 footprint
+08:08:50: Add D20 footprint
+08:08:50: Add SW21 footprint
+08:08:50: Add D21 footprint
+08:08:51: Add SW22 footprint
+08:08:51: Add D22 footprint
+08:08:51: Add SW23 footprint
+08:08:51: Add D23 footprint
+08:08:51: Add SW24 footprint
+08:08:51: Add D24 footprint
+08:08:51: Add SW25 footprint
+08:08:51: Add D25 footprint
+08:08:51: Add SW26 footprint
+08:08:51: Add D26 footprint
+08:08:51: Add SW27 footprint
+08:08:51: Add D27 footprint
+08:08:51: User layout: {'keys': [{'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,4'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 4, 'x2': 0, 'y': 0, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,3'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 3, 'x2': 0, 'y': 0.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,5'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 5, 'x2': 0, 'y': 0.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,1'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1, 'x2': 0, 'y': 0.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,2'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 2, 'x2': 0, 'y': 0.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['0,6'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6, 'x2': 0, 'y': 0.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,4'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 4, 'x2': 0, 'y': 1, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,3'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 3, 'x2': 0, 'y': 1.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,5'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 5, 'x2': 0, 'y': 1.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,1'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1, 'x2': 0, 'y': 1.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,2'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 2, 'x2': 0, 'y': 1.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['1,6'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6, 'x2': 0, 'y': 1.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,4'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 4, 'x2': 0, 'y': 2, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,3'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 3, 'x2': 0, 'y': 2.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,5'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 5, 'x2': 0, 'y': 2.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,1'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1, 'x2': 0, 'y': 2.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,2'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 2, 'x2': 0, 'y': 2.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['2,6'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6, 'x2': 0, 'y': 2.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,4'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 4, 'x2': 0, 'y': 3, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,3'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 3, 'x2': 0, 'y': 3.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,5'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 5, 'x2': 0, 'y': 3.25, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,1'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1, 'x2': 0, 'y': 3.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,2'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 2, 'x2': 0, 'y': 3.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['3,6'], 'nub': False, 'profile': '', 'rotation_angle': 0, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6, 'x2': 0, 'y': 3.5, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1, 'height2': 1, 'labels': ['4,3'], 'nub': False, 'profile': '', 'rotation_angle': 15, 'rotation_x': 0, 'rotation_y': 0, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 6.25, 'x2': 0, 'y': 2.95, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1.5, 'height2': 1.5, 'labels': ['4,4'], 'nub': False, 'profile': '', 'rotation_angle': 30, 'rotation_x': -3, 'rotation_y': 11.75, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1.85, 'x2': 0, 'y': 0.8, 'y2': 0}, {'color': '#cccccc', 'decal': False, 'default': {'textColor': '#000000', 'textSize': 3}, 'ghost': False, 'height': 1.5, 'height2': 1.5, 'labels': ['4,5'], 'nub': False, 'profile': '', 'rotation_angle': 40, 'rotation_x': -3, 'rotation_y': 11.75, 'sb': '', 'sm': '', 'st': '', 'stabRotation': 0, 'stepped': False, 'switchRotation': 0, 'textColor': [], 'textSize': [], 'width': 1, 'width2': 1, 'x': 1.2, 'x2': 0, 'y': -0.1, 'y2': 0}], 'meta': {'author': '', 'backcolor': '#eeeeee', 'background': None, 'name': '', 'notes': '', 'radii': '', 'switchBrand': '', 'switchMount': '', 'switchType': ''}}
+08:08:51: Detected layout convertible to matrix annotated keyboard
+08:08:51: Diode info: [ElementInfo(annotation_format='D{}', position_option=<PositionOption.CUSTOM: 'Custom'>, position=ElementPosition(x=5.08, y=4.0, orientation=90.0, side=<Side.BACK: 'Back'>), template_path='', start_index=-1)]
+08:08:51: Routing SW27 with D27
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(122714036, 106886720), (118427927, 111994703)]
+08:08:51: Adding track segment (B.Cu): [(122714036, 106886720), (121640505, 106980641)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(121640505, 106980641), (117354398, 112088626)]
+08:08:51: Routing SW26 with D26
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(103482464, 92657945), (100148464, 98432601)]
+08:08:51: Adding track segment (B.Cu): [(103482464, 92657945), (102441552, 92936856)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(102441552, 92936856), (99107553, 98711513)]
+08:08:51: Routing SW25 with D25
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(81768491, 80986572), (80042685, 87427363)]
+08:08:51: Adding track segment (B.Cu): [(81768491, 80986572), (80835235, 81525386)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(80835235, 81525386), (79109430, 87966180)]
+08:08:51: Routing SW24 with D24
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(97282000, 58737500), (97282000, 65405500)]
+08:08:51: Adding track segment (B.Cu): [(97282000, 58737500), (96520000, 59499500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(96520000, 59499500), (96520000, 66167500)]
+08:08:51: Routing SW23 with D23
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(78232000, 53975000), (78232000, 60643000)]
+08:08:51: Adding track segment (B.Cu): [(78232000, 53975000), (77470000, 54737000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(77470000, 54737000), (77470000, 61405000)]
+08:08:51: Routing SW22 with D22
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(59182000, 49212500), (59182000, 55880500)]
+08:08:51: Adding track segment (B.Cu): [(59182000, 49212500), (58420000, 49974500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(58420000, 49974500), (58420000, 56642500)]
+08:08:51: Routing SW21 with D21
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(40132000, 53975000), (40132000, 60643000)]
+08:08:51: Adding track segment (B.Cu): [(40132000, 53975000), (39370000, 54737000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(39370000, 54737000), (39370000, 61405000)]
+08:08:51: Routing SW20 with D20
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(21082000, 58737500), (21082000, 65405500)]
+08:08:51: Adding track segment (B.Cu): [(21082000, 58737500), (20320000, 59499500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(20320000, 59499500), (20320000, 66167500)]
+08:08:51: Routing SW19 with D19
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(2032000, 58737500), (2032000, 65405500)]
+08:08:51: Adding track segment (B.Cu): [(2032000, 58737500), (1270000, 59499500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(1270000, 59499500), (1270000, 66167500)]
+08:08:51: Routing SW18 with D18
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(97282000, 39687500), (97282000, 46355500)]
+08:08:51: Adding track segment (B.Cu): [(97282000, 39687500), (96520000, 40449500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(96520000, 40449500), (96520000, 47117500)]
+08:08:51: Routing SW17 with D17
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(78232000, 34925000), (78232000, 41593000)]
+08:08:51: Adding track segment (B.Cu): [(78232000, 34925000), (77470000, 35687000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(77470000, 35687000), (77470000, 42355000)]
+08:08:51: Routing SW16 with D16
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(59182000, 30162500), (59182000, 36830500)]
+08:08:51: Adding track segment (B.Cu): [(59182000, 30162500), (58420000, 30924500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(58420000, 30924500), (58420000, 37592500)]
+08:08:51: Routing SW15 with D15
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(40132000, 34925000), (40132000, 41593000)]
+08:08:51: Adding track segment (B.Cu): [(40132000, 34925000), (39370000, 35687000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(39370000, 35687000), (39370000, 42355000)]
+08:08:51: Routing SW14 with D14
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(21082000, 39687500), (21082000, 46355500)]
+08:08:51: Adding track segment (B.Cu): [(21082000, 39687500), (20320000, 40449500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(20320000, 40449500), (20320000, 47117500)]
+08:08:51: Routing SW13 with D13
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(2032000, 39687500), (2032000, 46355500)]
+08:08:51: Adding track segment (B.Cu): [(2032000, 39687500), (1270000, 40449500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(1270000, 40449500), (1270000, 47117500)]
+08:08:51: Routing SW12 with D12
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(97282000, 20637500), (97282000, 27305500)]
+08:08:51: Adding track segment (B.Cu): [(97282000, 20637500), (96520000, 21399500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(96520000, 21399500), (96520000, 28067500)]
+08:08:51: Routing SW11 with D11
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(78232000, 15875000), (78232000, 22543000)]
+08:08:51: Adding track segment (B.Cu): [(78232000, 15875000), (77470000, 16637000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(77470000, 16637000), (77470000, 23305000)]
+08:08:51: Routing SW10 with D10
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(59182000, 11112500), (59182000, 17780500)]
+08:08:51: Adding track segment (B.Cu): [(59182000, 11112500), (58420000, 11874500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(58420000, 11874500), (58420000, 18542500)]
+08:08:51: Routing SW9 with D9
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(40132000, 15875000), (40132000, 22543000)]
+08:08:51: Adding track segment (B.Cu): [(40132000, 15875000), (39370000, 16637000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(39370000, 16637000), (39370000, 23305000)]
+08:08:51: Routing SW8 with D8
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(21082000, 20637500), (21082000, 27305500)]
+08:08:51: Adding track segment (B.Cu): [(21082000, 20637500), (20320000, 21399500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(20320000, 21399500), (20320000, 28067500)]
+08:08:51: Routing SW7 with D7
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(2032000, 20637500), (2032000, 27305500)]
+08:08:51: Adding track segment (B.Cu): [(2032000, 20637500), (1270000, 21399500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(1270000, 21399500), (1270000, 28067500)]
+08:08:51: Routing SW6 with D6
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(97282000, 1587500), (97282000, 8255500)]
+08:08:51: Adding track segment (B.Cu): [(97282000, 1587500), (96520000, 2349500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(96520000, 2349500), (96520000, 9017500)]
+08:08:51: Routing SW5 with D5
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(78232000, -3175000), (78232000, 3493000)]
+08:08:51: Adding track segment (B.Cu): [(78232000, -3175000), (77470000, -2413000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(77470000, -2413000), (77470000, 4255000)]
+08:08:51: Routing SW4 with D4
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(59182000, -7937500), (59182000, -1269500)]
+08:08:51: Adding track segment (B.Cu): [(59182000, -7937500), (58420000, -7175500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(58420000, -7175500), (58420000, -507500)]
+08:08:51: Routing SW3 with D3
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(40132000, -3175000), (40132000, 3493000)]
+08:08:51: Adding track segment (B.Cu): [(40132000, -3175000), (39370000, -2413000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(39370000, -2413000), (39370000, 4255000)]
+08:08:51: Routing SW2 with D2
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(21082000, 1587500), (21082000, 8255500)]
+08:08:51: Adding track segment (B.Cu): [(21082000, 1587500), (20320000, 2349500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(20320000, 2349500), (20320000, 9017500)]
+08:08:51: Routing SW1 with D1
+08:08:51: Using internal autorouter method
+08:08:51: Adding track segment (B.Cu): [(2032000, 1587500), (2032000, 8255500)]
+08:08:51: Adding track segment (B.Cu): [(2032000, 1587500), (1270000, 2349500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(1270000, 2349500), (1270000, 9017500)]
+08:08:51: Adding track segment (B.Cu): [(-10895000, 4127500), (-10895000, 23177500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(-10895000, 23177500), (-10895000, 42227500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(-10895000, 42227500), (-10895000, 61277500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(1270000, 69467500), (20320000, 69467500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(20320000, 69467500), (34607500, 69467500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(34607500, 69467500), (39370000, 64705000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(39370000, 64705000), (53657500, 64705000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(53657500, 64705000), (58420000, 59942500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(58420000, 59942500), (72707500, 59942500)]
+08:08:51: Adding track segment (B.Cu): [(58420000, 59942500), (63182500, 64705000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(63182500, 64705000), (77470000, 64705000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(77470000, 64705000), (91757500, 64705000)]
+08:08:51: Adding track segment (B.Cu): [(77470000, 64705000), (82232500, 69467500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(82232500, 69467500), (96520000, 69467500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(8155000, 4127500), (8155000, 23177500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(8155000, 23177500), (8155000, 42227500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(8155000, 42227500), (8155000, 61277500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(65305000, -635000), (65305000, 18415000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(65305000, 18415000), (65305000, 37465000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(65305000, 37465000), (65305000, 56515000)]
+08:08:51: Track added
+08:08:51: Could not route pads when parent footprints not rotated the same, footprint1: SW23 at 0.0 degree(s) and footprint2: SW27 at -40.0 degree(s)
+08:08:51: Adding track segment (B.Cu): [(27205000, -635000), (27205000, 18415000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(27205000, 18415000), (27205000, 37465000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(27205000, 37465000), (27205000, 56515000)]
+08:08:51: Track added
+08:08:51: Could not route pads when parent footprints not rotated the same, footprint1: SW21 at 0.0 degree(s) and footprint2: SW25 at -15.0 degree(s)
+08:08:51: Adding track segment (B.Cu): [(84355000, 4127500), (84355000, 23177500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(84355000, 23177500), (84355000, 42227500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(84355000, 42227500), (84355000, 61277500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(1270000, 12317500), (20320000, 12317500)]
+08:08:51: Adding track segment (B.Cu): [(20320000, 12317500), (34607500, 12317500)]
+08:08:51: Adding track segment (B.Cu): [(20320000, 12317500), (25082500, 7555000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(25082500, 7555000), (39370000, 7555000)]
+08:08:51: Adding track segment (B.Cu): [(39370000, 7555000), (53657500, 7555000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(53657500, 7555000), (58420000, 2792500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(58420000, 2792500), (72707500, 2792500)]
+08:08:51: Adding track segment (B.Cu): [(58420000, 2792500), (63182500, 7555000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(63182500, 7555000), (77470000, 7555000)]
+08:08:51: Adding track segment (B.Cu): [(77470000, 7555000), (91757500, 7555000)]
+08:08:51: Adding track segment (B.Cu): [(77470000, 7555000), (82232500, 12317500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(82232500, 12317500), (96520000, 12317500)]
+08:08:51: Adding track segment (B.Cu): [(1270000, 31367500), (20320000, 31367500)]
+08:08:51: Adding track segment (B.Cu): [(20320000, 31367500), (34607500, 31367500)]
+08:08:51: Adding track segment (B.Cu): [(20320000, 31367500), (25082500, 26605000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(25082500, 26605000), (39370000, 26605000)]
+08:08:51: Adding track segment (B.Cu): [(39370000, 26605000), (53657500, 26605000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(53657500, 26605000), (58420000, 21842500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(58420000, 21842500), (72707500, 21842500)]
+08:08:51: Adding track segment (B.Cu): [(58420000, 21842500), (63182500, 26605000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(63182500, 26605000), (77470000, 26605000)]
+08:08:51: Adding track segment (B.Cu): [(77470000, 26605000), (91757500, 26605000)]
+08:08:51: Adding track segment (B.Cu): [(77470000, 26605000), (82232500, 31367500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(82232500, 31367500), (96520000, 31367500)]
+08:08:51: Could not route pads when parent footprints not rotated the same, footprint1: D25 at 75.0 degree(s) and footprint2: D26 at 60.0 degree(s)
+08:08:51: Could not route pads when parent footprints not rotated the same, footprint1: D26 at 60.0 degree(s) and footprint2: D27 at 50.0 degree(s)
+08:08:51: Adding track segment (B.Cu): [(46255000, -5397500), (46255000, 13652500)]
+08:08:51: Adding track segment (B.Cu): [(46255000, 13652500), (46255000, 32702500)]
+08:08:51: Adding track segment (B.Cu): [(46255000, 32702500), (46255000, 51752500)]
+08:08:51: Track added
+08:08:51: Could not route pads when parent footprints not rotated the same, footprint1: SW22 at 0.0 degree(s) and footprint2: SW26 at -30.0 degree(s)
+08:08:51: Adding track segment (B.Cu): [(1270000, 50417500), (20320000, 50417500)]
+08:08:51: Adding track segment (B.Cu): [(20320000, 50417500), (34607500, 50417500)]
+08:08:51: Adding track segment (B.Cu): [(20320000, 50417500), (25082500, 45655000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(25082500, 45655000), (39370000, 45655000)]
+08:08:51: Adding track segment (B.Cu): [(39370000, 45655000), (53657500, 45655000)]
+08:08:51: Adding track segment (B.Cu): [(39370000, 45655000), (44132500, 40892500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(44132500, 40892500), (58420000, 40892500)]
+08:08:51: Adding track segment (B.Cu): [(58420000, 40892500), (72707500, 40892500)]
+08:08:51: Adding track segment (B.Cu): [(58420000, 40892500), (63182500, 45655000)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(63182500, 45655000), (77470000, 45655000)]
+08:08:51: Adding track segment (B.Cu): [(77470000, 45655000), (91757500, 45655000)]
+08:08:51: Adding track segment (B.Cu): [(77470000, 45655000), (82232500, 50417500)]
+08:08:51: Track added
+08:08:51: Adding track segment (B.Cu): [(82232500, 50417500), (96520000, 50417500)]
+08:08:51: Removing dangling tracks
+08:08:51: Removing 48184db6-43f0-45a4-bccd-17d70710d5d4
+08:08:51: Removing 924fa267-a87c-4a76-94eb-210758d16418
+08:08:51: Removing 2a49c711-4fbd-4194-ae88-ac1807d8558a
+08:08:51: Removing 404a279a-ca4f-4086-bc2c-fdd18a3532f9
+08:08:51: Removing d621289c-d59d-4f52-83ba-6e2eea0ec648
+08:08:51: Removing b5384377-e0b3-4ec7-a520-bb10fb93e3b2
+08:08:51: Removing 00c6df9d-1e13-4068-8ea3-6b41e494f4ae
+08:08:51: Removing 30377af6-3078-413a-9f13-38eeb92ba388
+08:08:51: Removing a4d65a1d-20d3-4ffb-90d3-5342882fb2e2
+08:08:51: Removing cf3d6662-c74a-4dd1-bf69-3041b31340e4
+08:08:51: Removing 44de3bcf-049f-4818-b164-2c7d6eee9085
+08:08:51: Removing d0bd220c-697c-4d6f-ab75-ed148beff9a1
+08:08:51: Removing df152ed3-399c-4f40-9656-30aa134c92f4
+08:08:51: Removing 579dffd6-b703-4797-8d3d-b399d6bcb310
+08:08:51: Removing 7c6e9f0f-b0f2-411b-94a6-6e015beb8dbc
+08:08:51: Removing 24ab9a60-e3b6-436a-a659-681d120175eb
+08:08:51: Removing e70e620d-3070-4ab9-8881-64e5d997e35a
+08:08:51: Removing 85737c42-3b0e-44de-9a07-2e4a41aa2953
+08:08:51: Removing 8339de0a-5cb2-4834-a0d0-4548fe7ae230
+08:08:51: Removing b5cde093-94b2-45f2-b8a8-334a6d9f3e11
+08:08:51: Removing 97d97196-a649-460f-937d-919bc81ffb93
+08:08:51: Removing f6ed9564-58ac-4734-9405-1580f6ce2087
+08:08:51: Removing e65c1e95-884b-41c7-a162-158eb017925d
+08:08:51: Removing cb3932c2-35df-492a-90f4-8468dcc5b2c3
+08:08:51: Removing 95acd81f-0c98-41a2-9295-3eceb598585d
+08:08:51: Removing 0b9c88ca-51d3-467b-add9-e9febe15b0a6
+08:08:51: Removing e60d5fc7-8da3-44f8-b133-8a25cfdc5cff
+08:08:51: Removing b9f42470-ce64-4a19-ab28-7f139c0bf4ac
+08:08:51: Removing 1a6993fc-b666-4948-80e7-0d06c516618c
+08:08:51: Removing 636a1f42-b008-40eb-bd9a-f604005b6afb
+08:08:51: Removing 819ca893-e118-41aa-92c3-92fdf93974b9
+08:08:51: Removing 85a0d51c-b4b6-4474-8cbc-2fa3d0c6a44c
+08:08:51: Removing 04b48896-1aa6-467c-bc31-7702883cd2ad
+08:08:51: Removing b53d2f0c-453d-4c91-8ec2-ca6650ac5983
+08:08:51: Removing 3ddb5343-9869-42ea-a7f3-c22e38bccdc3
+08:08:51: Removing 574883bf-137b-48b9-b597-d7f49d9bb4ab
+08:08:51: Removing aeee9be8-95c6-44a6-8cf9-efe784dafcde
