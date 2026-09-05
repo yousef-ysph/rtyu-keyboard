@@ -5,3 +5,4 @@ RTYU uses hot-swap sockets for low profile choc v2 or cherry mx keyswitches (dep
 
 Firmware is based on [QMK](https://github.com/qmk/qmk_firmware) and there is a [Vial](https://github.com/vial-kb/vial-qmk) port for Vial GUI app 
 
+![](https://raw.githubusercontent.com/yousef-ysph/rtyu-keyboard/refs/heads/main/rtyu.jpg)
